@@ -36,3 +36,7 @@ Nice explanation
 https://www.youtube.com/watch?v=vF8C-MaT2bI
 
 Same code copy
+
+Note Please remove static keyword from method
+it should be
+public int removeCoveredIntervals(int[][] intervals)
